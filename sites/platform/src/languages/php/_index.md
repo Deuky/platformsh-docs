@@ -205,7 +205,7 @@ repositories:
 ```
 That installs `platformsh/client` from the specified repository URL as a global dependency.
 
-For example, to install Composer 2 and the `platform/client 2.x-dev` library from a custom repository,
+For example, to install Composer 2 and the `platformsh/client 2.x-dev` library from a custom repository,
 use the following:
 
 ```yaml {configFile="app"}
